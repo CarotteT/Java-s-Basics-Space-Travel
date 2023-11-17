@@ -35,8 +35,7 @@ public class SpaceTravel
          } while(true);
     }
 }
-
-
+#############################################################################
 import java.util.Scanner;
 
 public class SpaceTravel
